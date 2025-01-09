@@ -71,7 +71,6 @@ https://youtu.be/r8jQ9hVA2qs?si=PRA_v74lv0hGv5qr
 
 #### Applied Exercises
 
-* GitHub Training - Day 1 Activities
 * GitHub Learning - Introduction to GitHub (Complete the tasks described in the repository)
 * Optional
     * Communicate using Markdown
@@ -127,7 +126,6 @@ https://youtu.be/nCKdihvneS0?si=yFM30q-_xO6vvTme
 #### Applied Exercises
 
 * GitHub Learning - Review Pull Requests (Follow steps outlined in the repository)
-* GitHub Training - Day 2 Activities
 * Optional:
     * GitHub Learning - Resolve a Merge Conflict 
 
