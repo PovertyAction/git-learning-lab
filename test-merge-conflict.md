@@ -40,6 +40,6 @@ This is a sample file created to practice resolving merge conflicts.
 10. Go through steps mentioned above to resolve the merge conflict.
 
 ## Sample Content
-Hello, today is <DATE>.
-This is line 2, by <USERNAME>.
-I live in <CITY>, <COUNTRY>.
+Hello, today is 1/9/2025.
+This is line 2, by David Torres.
+I live in Bogota, Colombia.
