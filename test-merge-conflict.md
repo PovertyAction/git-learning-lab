@@ -41,5 +41,5 @@ This is a sample file created to practice resolving merge conflicts.
 
 ## Sample Content
 Hello, today is 1/9/2025.
-This is line 2, by David Torres.
+This is line 2, by David Torres Leon.
 I live in Bogota, Colombia.
