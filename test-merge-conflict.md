@@ -44,5 +44,5 @@ Hello, today is <jan9>.
 This is line 2, by <Daniel Martinez>.
 I live in <Bogota>, <Colombia>.
 Hello, today is 1/9/2025.
-This is line 2, by David Torres Leon.
+This is line 2, by David Torres.
 I live in Bogota, Colombia.
