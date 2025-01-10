@@ -139,7 +139,7 @@ https://youtu.be/nCKdihvneS0?si=yFM30q-_xO6vvTme
             * https://github.com/PovertyAction/Python-Resources
             * https://github.com/PovertyAction/ipahelper
 
-#### Additional References
+#### Additional Reference
 
 * Getting out of trouble, by Miles McBain
 * Git best practices, by Seth Robertson
