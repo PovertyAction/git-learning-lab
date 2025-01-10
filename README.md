@@ -1,6 +1,6 @@
 # Git Learning Lab
 
-Welcome to IPA`s Git Learning Lab! (revert activity)
+Welcome to IPA`s Git Learning Lab!
 
 Here is the agenda that we are following for the Learning Lab:
 
