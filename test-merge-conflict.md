@@ -40,6 +40,10 @@ This is a sample file created to practice resolving merge conflicts.
 10. Go through steps mentioned above to resolve the merge conflict.
 
 ## Sample Content
+Hello, today is <jan9>.
+This is line 2, by <Daniel Martinez>.
+I live in <Bogota>, <Colombia>.
 Hello, today is 1/9/2025.
-This is line 2, by David Torres Leon.
+This is line 2, by David Torres.
 I live in Bogota, Colombia.
+Hi! Daniela Carrillo Díaz is editing.
